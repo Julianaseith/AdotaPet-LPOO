@@ -1,0 +1,12 @@
+# Build do NetBeans/Ant
+/build/
+/dist/
+/nbproject/private/
+*.class
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+# Arquivo de amostra dados/pets.txt foi incluído para demonstração.
+# Não publique cadastros reais de ONGs neste repositório.
